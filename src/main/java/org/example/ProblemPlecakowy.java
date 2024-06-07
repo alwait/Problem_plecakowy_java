@@ -80,7 +80,7 @@ public class ProblemPlecakowy {
         gbc.fill = GridBagConstraints.VERTICAL;
         panel1.add(spacer2, gbc);
         final JLabel label1 = new JLabel();
-        label1.setText("Liczba rodzaji przedmiotow");
+        label1.setText("Liczba rodzajow przedmiotow");
         gbc = new GridBagConstraints();
         gbc.gridx = 0;
         gbc.gridy = 0;
